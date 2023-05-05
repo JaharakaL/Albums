@@ -8,6 +8,8 @@ PhotoBook-Project is a Java Spring application for creating and sharing photo al
     Photo upload and deletion
     Album and photo viewing
     Search functionality
+    Geolocation View
+    Mass Image Upload
 
 ## Technologies
     Java 15
