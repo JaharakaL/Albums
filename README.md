@@ -13,11 +13,9 @@ PhotoBook-Project is a Java Spring application for creating and sharing photo al
 
 ## Technologies
     Java 15
-    Spring Framework 5
-    Spring Boot 2
-    Spring Security
-    Thymeleaf template engine
     HeidiSQL
+    Metadata Extractor
+    MariaDB
     GeoLocation
 
 ## Images
